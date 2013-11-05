@@ -1,4 +1,4 @@
 template000
 ===========
 
-This first template demonstrates the main container div and use of external files.
+This first template demonstrates a few basic html tags (bold, italics, anchor, div) and the use of an external CSS file.
