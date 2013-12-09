@@ -10,7 +10,7 @@ It contains the simplest amount of code required to make a html test game. It us
  For more info see: http://kata.coderdojo.com/wiki/dojogame
  For more information on the Coderdojo movement see : http://coderdojo.com 
 
- techbot.github.io 2013
+ [[techbot.github.io]] 2013
 
 ====================================
 index.html
