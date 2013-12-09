@@ -8,8 +8,8 @@ It contains the simmples amount of code required to make a html test game. It us
 index.html
 
 <html>
-<x>
-       <body>
+
+       <body><x>
                 <div>
                 You are standing outside a castle ,surrounded by a shark filled moat
                 </div>
