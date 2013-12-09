@@ -8,7 +8,7 @@ It contains the simmples amount of code required to make a html test game. It us
 index.html
 
 <html>
-       <body>
+       </body>
                 <div>
                 You are standing outside a castle ,surrounded by a shark filled moat
                 </div>
@@ -27,7 +27,7 @@ index.html
 room1.html
 
 <html>
-       <body>
+       </body>
                 <div>
                 You are standing in the castle.
                 </div>
@@ -41,7 +41,7 @@ room1.html
 room2.html
 
 <html>
-       <body>
+       </body>
                 <div>
                 You are Dead.
                 </div>
