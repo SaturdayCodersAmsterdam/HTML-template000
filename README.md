@@ -5,12 +5,10 @@ This first template demonstrates the main container div and use of external file
 
 It contains the simmples amount of code required to make a html test game. It uses three files index.html room1.html and room2.html . The code only uses two commands or tags a href and img src.
 
+index.html
+
 <html>
-        <head>
-        
-        </head>
-        
-        <body>
+       <body>
                 <div>
                 You are standing outside a castle ,surrounded by a shark filled moat
                 </div>
@@ -26,3 +24,30 @@ It contains the simmples amount of code required to make a html test game. It us
 </html>        
 
 
+room1.html
+
+<html>
+       <body>
+                <div>
+                You are standing in the castle.
+                </div>
+              
+                
+                </div>
+        </body>
+
+</html>    
+
+room2.html
+
+<html>
+       <body>
+                <div>
+                You are Dead.
+                </div>
+              
+                
+                </div>
+        </body>
+
+</html>    
