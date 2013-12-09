@@ -6,11 +6,11 @@ This first template demonstrates the main container div and use of external file
 It contains the simplest amount of code required to make a html test game. It uses three files index.html room1.html and room2.html . The code only uses two commands or tags a href and img src.
 
 
-    This template is part of a the Dojogame resources . For more info see: http://kata.coderdojo.com/wiki/dojogame
-    
-    for more information on the coderdojompvement see : http://coderdojo.com 
+ This template is part of a the Dojogame resources . 
+ For more info see: http://kata.coderdojo.com/wiki/dojogame
+ For more information on the Coderdojo movement see : http://coderdojo.com 
 
-    techbot.github.io 2013
+ techbot.github.io 2013
 
 ====================================
 index.html
@@ -28,16 +28,16 @@ index.html
 room1.html
 
 <html>
-                <div>
+            
                 You are standing in the castle.
-                </div>
+                
 </html>
 
 room2.html
 
 <html>
-                <div>
+                
                 You are Dead.
-                </div>
+                
 
 </html>
