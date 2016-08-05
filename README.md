@@ -1,15 +1,10 @@
 template000
 ===========
 
-<<<<<<< HEAD
+
 This first template demonstrates the main container div and use of external files.
 
 It contains the simplest amount of code required to make a html test game. It uses three files index.html room1.html and room2.html . The code only uses two commands or tags a href and img src.
-
-
- This template is part of a the Dojogame resources . 
- For more info see: http://kata.coderdojo.com/wiki/dojogame
- For more information on the Coderdojo movement see : http://coderdojo.com 
 
  http://techbot.github.io 2013
 
@@ -44,4 +39,4 @@ room2.html
 </html>
 =======
 This first template demonstrates a few basic html tags (bold, italics, anchor, div) and the use of an external CSS file.
->>>>>>> b350b8965ae0dadaa57e36c2b8c623dac0817ed2
+
